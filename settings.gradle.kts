@@ -1,1 +1,1 @@
-rootProject.name = "kotlin-plugin-based-app"
+rootProject.name = "kotlin_plugin_based_app_test"
